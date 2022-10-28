@@ -4,10 +4,12 @@
 ### Bakcoffice ###
 backoffice/api/.gradle
 backoffice/api/build
+backoffice/api/.env
 
 ### Site ###
 site/api/.gradle
 site/api/build
+site/api/.env
 
 ### Mac OS ###
 .DS_Store
