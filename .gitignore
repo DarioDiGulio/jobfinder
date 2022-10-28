@@ -1,0 +1,10 @@
+### Bakcoffice ###
+backoffice/api/.gradle
+backoffice/api/build
+
+### Site ###
+site/api/.gradle
+site/api/build
+
+### Mac OS ###
+.DS_Store
